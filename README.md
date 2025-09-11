@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hey there! I'm **Santhosh G**, a curious and motivated student currently pursuing my **Bachelor of Computer Applications (BCA)**. I enjoy diving deep into the fundamentals of computer science and building a strong foundation in programming, algorithms, and systems.
+Hey there! I'm **Santhosh G A**, a curious and motivated student currently pursuing my **Bachelor of Computer Applications (BCA)**. I enjoy diving deep into the fundamentals of computer science and building a strong foundation in programming, algorithms, and systems.
 
 💻 I’m passionate about:
 - Problem-solving and competitive programming  
